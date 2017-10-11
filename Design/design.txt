@@ -1,0 +1,30 @@
+X Ball rolls
+X Camera follows ball
+* 2 balls
+    - with separate controls
+X Wall collisions
+* Hunter-Prey collisions
+
+* Maze with all walls
+* Landmarks
+* Moving Doors
+    - doors open when a player is near
+* HUD player objective indicator
+* Abilities
+    - hunter abilities
+    - prey abilities
+
+* Main menu
+	- press play -> game
+
+* player select screen
+
+
+
+
+
+
+
+
+Wall thickness = 0.1
+Each grid square = 2 units by 2 units

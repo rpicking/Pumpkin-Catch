@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 1a5a92b697f6e014782c7072178d900f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Pumpkin
+    100004: Spider
+    100006: SpiderHub001
+    100008: SpiderLLeg1
+    100010: SpiderLLeg1 1
+    100012: SpiderLLeg2
+    100014: SpiderLLeg2 1
+    100016: SpiderLLegAnkle
+    100018: SpiderLLegAnkle 1
+    100020: SpiderLLegPlatform
+    100022: SpiderLLegPlatform 1
+    100024: SpiderRLeg1
+    100026: SpiderRLeg1 1
+    100028: SpiderRLeg2
+    100030: SpiderRLeg2 1
+    100032: SpiderRLegAnkle
+    100034: SpiderRLegAnkle 1
+    100036: SpiderRLegPlatform
+    100038: SpiderRLegPlatform 1
+    400000: //RootNode
+    400002: Pumpkin
+    400004: Spider
+    400006: SpiderHub001
+    400008: SpiderLLeg1
+    400010: SpiderLLeg1 1
+    400012: SpiderLLeg2
+    400014: SpiderLLeg2 1
+    400016: SpiderLLegAnkle
+    400018: SpiderLLegAnkle 1
+    400020: SpiderLLegPlatform
+    400022: SpiderLLegPlatform 1
+    400024: SpiderRLeg1
+    400026: SpiderRLeg1 1
+    400028: SpiderRLeg2
+    400030: SpiderRLeg2 1
+    400032: SpiderRLegAnkle
+    400034: SpiderRLegAnkle 1
+    400036: SpiderRLegPlatform
+    400038: SpiderRLegPlatform 1
+    4300000: Pumpkin
+    7400000: Run
+    7400002: Idle
+    9500000: //RootNode
+    13700000: Pumpkin
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Pumpkin
+        weight: 1
+      - path: Spider
+        weight: 1
+      - path: SpiderHub001
+        weight: 1
+      - path: SpiderHub001/SpiderLLeg1
+        weight: 1
+      - path: SpiderHub001/SpiderLLeg1/SpiderLLeg2
+        weight: 1
+      - path: SpiderHub001/SpiderLLeg1/SpiderLLeg2/SpiderLLegAnkle
+        weight: 1
+      - path: SpiderHub001/SpiderLLeg1 1
+        weight: 1
+      - path: SpiderHub001/SpiderLLeg1 1/SpiderLLeg2 1
+        weight: 1
+      - path: SpiderHub001/SpiderLLeg1 1/SpiderLLeg2 1/SpiderLLegAnkle 1
+        weight: 1
+      - path: SpiderHub001/SpiderRLeg1
+        weight: 1
+      - path: SpiderHub001/SpiderRLeg1/SpiderRLeg2
+        weight: 1
+      - path: SpiderHub001/SpiderRLeg1/SpiderRLeg2/SpiderRLegAnkle
+        weight: 1
+      - path: SpiderHub001/SpiderRLeg1 1
+        weight: 1
+      - path: SpiderHub001/SpiderRLeg1 1/SpiderRLeg2 1
+        weight: 1
+      - path: SpiderHub001/SpiderRLeg1 1/SpiderRLeg2 1/SpiderRLegAnkle 1
+        weight: 1
+      - path: SpiderLLegPlatform
+        weight: 1
+      - path: SpiderLLegPlatform 1
+        weight: 1
+      - path: SpiderRLegPlatform
+        weight: 1
+      - path: SpiderRLegPlatform 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 111
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Pumpkin
+        weight: 1
+      - path: Spider
+        weight: 1
+      - path: SpiderHub001
+        weight: 1
+      - path: SpiderHub001/SpiderLLeg1
+        weight: 1
+      - path: SpiderHub001/SpiderLLeg1/SpiderLLeg2
+        weight: 1
+      - path: SpiderHub001/SpiderLLeg1/SpiderLLeg2/SpiderLLegAnkle
+        weight: 1
+      - path: SpiderHub001/SpiderLLeg1 1
+        weight: 1
+      - path: SpiderHub001/SpiderLLeg1 1/SpiderLLeg2 1
+        weight: 1
+      - path: SpiderHub001/SpiderLLeg1 1/SpiderLLeg2 1/SpiderLLegAnkle 1
+        weight: 1
+      - path: SpiderHub001/SpiderRLeg1
+        weight: 1
+      - path: SpiderHub001/SpiderRLeg1/SpiderRLeg2
+        weight: 1
+      - path: SpiderHub001/SpiderRLeg1/SpiderRLeg2/SpiderRLegAnkle
+        weight: 1
+      - path: SpiderHub001/SpiderRLeg1 1
+        weight: 1
+      - path: SpiderHub001/SpiderRLeg1 1/SpiderRLeg2 1
+        weight: 1
+      - path: SpiderHub001/SpiderRLeg1 1/SpiderRLeg2 1/SpiderRLegAnkle 1
+        weight: 1
+      - path: SpiderLLegPlatform
+        weight: 1
+      - path: SpiderLLegPlatform 1
+        weight: 1
+      - path: SpiderRLegPlatform
+        weight: 1
+      - path: SpiderRLegPlatform 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
